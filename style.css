@@ -21,7 +21,7 @@ h1{
 }
 .two{
     width: 45%;
-    padding-left: 20px;
+    padding-left: 40px;
 }
 .two img{
     width: 80%;
@@ -49,7 +49,24 @@ h1{
     width: 30%;
     margin-left: 25px;
     padding-left: 10px;
+    padding-right: 10px;
     box-shadow: 10px 10px 15px gray;
-    border-radius: 5px;
-    background-color: rgba(188, 248, 235, 0.904);
+    border-radius: 10px;
+}
+#four{
+    color: orangered;
+}
+#five{
+    padding-inline-start: 20px;
+    padding-bottom: 10px;
+    background-color: rgb(32, 211, 202);
+}
+.four{
+    background-color: rgb(253, 225, 255);
+}
+.five{
+    background-color: rgb(196, 245, 242);
+}
+.six{
+    background-color: rgb(199, 245, 226);
 }
